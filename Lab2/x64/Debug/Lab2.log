@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\pups\source\repos\Lab2\Lab2\MyForm.h(462,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pups\source\repos\Lab2\Lab2\MyForm.cpp(9,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\pups\source\repos\Lab2\Lab2\MyForm.cpp(57): warning C4715: Lab2::MyForm::ai: значение возвращается не при всех путях выполнения
+C:\Users\pups\source\repos\Lab2\Lab2\MyForm.cpp(69): warning C4715: Lab2::MyForm::ai: значение возвращается не при всех путях выполнения
+C:\Users\pups\source\repos\Lab2\Lab2\MyForm.cpp(81): warning C4715: Lab2::MyForm::di: значение возвращается не при всех путях выполнения
+C:\Users\pups\source\repos\Lab2\Lab2\MyForm.cpp(93): warning C4715: Lab2::MyForm::fii: значение возвращается не при всех путях выполнения
+C:\Users\pups\source\repos\Lab2\Lab2\MyForm.cpp(105): warning C4715: Lab2::MyForm::di: значение возвращается не при всех путях выполнения
+C:\Users\pups\source\repos\Lab2\Lab2\MyForm.cpp(117): warning C4715: Lab2::MyForm::fii: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab2.vcxproj -> C:\Users\pups\source\repos\Lab2\x64\Debug\Lab2.exe
