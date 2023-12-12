@@ -1,0 +1,3 @@
+C:\Users\pups\source\repos\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.AssemblyReference.cache
+C:\Users\pups\source\repos\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.MyForm.resources
+C:\Users\pups\source\repos\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.GenerateResource.cache
